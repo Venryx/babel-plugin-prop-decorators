@@ -6,8 +6,10 @@ Oh well. May have been worth it, since now I know how to build my own Babel plug
 
 Note that the package.json files and such are messed-up/not-configured. When your work becomes useless, you kinda lose motivation to get it set up nicely.
 
-=== Example
+Example
+==========
 Source:
+----------
 ```
 class Test1 {
 	@PropDecorator1
@@ -18,6 +20,7 @@ class Test1 {
 ```
 
 Result:
+----------
 ```
 class Test1 {
 	constructor() {
