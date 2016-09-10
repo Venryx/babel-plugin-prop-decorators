@@ -32,3 +32,15 @@ class Test1 {
 PropDecorator2(Test1, "prop2", "test1", test2)
 PropDecorator1(Test1, "prop1")
 ```
+
+Installation
+==========
+```
+npm install
+```
+
+Testing
+==========
+```
+node Run.js Example.jsx
+```
