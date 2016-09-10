@@ -25,7 +25,7 @@ Result:
 class Test1 {
 	constructor() {
 		this.prop1 = "val1";
-	   this.prop2 = "val2";
+		this.prop2 = "val2";
 	}
 }
 
