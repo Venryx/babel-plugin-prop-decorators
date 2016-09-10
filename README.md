@@ -28,7 +28,6 @@ class Test1 {
 		this.prop2 = "val2";
 	}
 }
-
 PropDecorator2(Test1, "prop2", "test1", test2)
 PropDecorator1(Test1, "prop1")
 ```
